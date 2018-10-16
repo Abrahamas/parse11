@@ -14,7 +14,7 @@ The following **required** user stories are complete:
 - [X] User can view a list of chat messages in chronological order (+2pt)
 - [X] Automatically Adjust Cell Size to Fit Text (+1pt)
 - [X] Username of chat author is displayed in each chat message (+2pt)
-- [ ] Persist Logged in User (+1pt)
+- [X] Persist Logged in User (+1pt)
 
 The following **stretch** user stories are implemented:
 
